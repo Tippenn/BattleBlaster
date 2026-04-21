@@ -1,7 +1,12 @@
-# 🎮 Battle Blaster (Arcade TPS Tank Game)
 
+
+# 🎮 Battle Blaster (Arcade TPS Tank Game)
+<p align="center">
+<img width="426" height="240" alt="BattleBlaster" src="https://github.com/user-attachments/assets/f5cef625-4795-42fc-ab79-1ec27e47aa20" width = "3000"/>
+</p>
 Battle Blaster is a simple arcade-style third-person tank shooter built in Unreal Engine using C++.  
 This project focuses on core gameplay systems and understanding Unreal Engine’s C++ framework.
+
 
 ---
 
